@@ -1,7 +1,6 @@
 # Search onboarding agent
+
 Agent configuration files tailored to search solution onboarding
-<<<<<<< Updated upstream
-=======
 
 ## Installation
 
@@ -12,4 +11,3 @@ Agent configuration files tailored to search solution onboarding
 
 - Update markdown files
 - Run `./build` to generate a new zip file
->>>>>>> Stashed changes
