@@ -4,7 +4,8 @@ Agent configuration files tailored to search solution onboarding
 
 ## Installation
 
-- Run `./installation-instructions` to extract the markdown files
+- Run `curl -sSL https://github.com/elastic/search-onboarding-agent/installation-instructions | sh` to extract the markdown files and append them to your local AGENTS.md configuration.
+- Ask the agent about Elasticsearch
 
 ## Development
 
